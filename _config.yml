@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://evenlu.com/photorama/gallery/"  
-  - JOURNAL: "https://evenlu.com/photorama/journal/"
-  - ABOUT: "https://evenlu.com/photorama/about/"
+  - GALLERY: "https://evenYiwen.github.io/photorama/gallery/"  
+  - JOURNAL: "https:///evenYiwen.github.io/photorama/journal/"
+  - ABOUT: "https:///evenYiwen.github.io/photorama/about/"
 
 # All translation keys
 translations:

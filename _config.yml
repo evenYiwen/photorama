@@ -3,7 +3,7 @@ title: Yiwen Lu Photography
 email: "wendy.yw.lu@gmail.com"
 description: "Portfolio"
 url: "https://evenlu.com"
-baseurl: ""
+baseurl: "/photorama"
 facebook_username: ""
 twitter_username: ""
 instagram_username: "faaaraway_"
@@ -33,7 +33,7 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://evenlu..com/gallery/"  
+  - GALLERY: "https://evenlu.com/gallery/"  
   - JOURNAL: "https://evenlu.com/journal/"
   - ABOUT: "https://evenlu.com/about/"
 

@@ -1,13 +1,13 @@
 # Site settings
-title: PHOTORAMA
-email: ""
-description: "Photo Journal"
+title: Yiwen Lu Photography
+email: "wendy.yw.lu@gmail.com"
+description: "Portfolio"
 url: "https://evenlu.com"
 baseurl: "/photorama"
 facebook_username: ""
 twitter_username: ""
-instagram_username: ""
-github_username:  ""
+instagram_username: "faaaraway_"
+github_username:  "evenYiwen"
 deviantart_username: ""
 flickr_username: ""
 discus_shortname: ""
@@ -15,10 +15,10 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   Yiwen Lu
   avatar: avatar.png
   favicon: favicon.ico
-  info: photography website template
+  info: Welcome!
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
